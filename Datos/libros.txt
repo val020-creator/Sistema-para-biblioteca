@@ -1,0 +1,20 @@
+9789585001234|Cien anios de soledad|Gabriel Garcia Marquez|LIT|1967|5|3
+9789587654321|Estructuras de datos en Python|Ana Gomez|TEC|2020|2|0
+9789580000012|El coronel no tiene quien le escriba|Gabriel Garcia Marquez|LIT|1961|3|3
+9789580000029|Introduccion a la programacion con Python|Luis Mendoza|TEC|2019|6|6
+9789580000036|Bases de datos relacionales|Marta Rojas|TEC|2018|4|4
+9789580000043|Fisica universitaria|Hugo Sanchez|CIE|2015|5|5
+9789580000050|Historia de Colombia|Jorge Ortiz|HIS|2012|3|3
+9789580000067|Calculo diferencial|Ines Vargas|MAT|2017|5|5
+9789580000074|Algebra lineal aplicada|Raul Pinto|MAT|2021|2|2
+9789580000081|Historia del arte moderno|Elena Silva|ART|2010|2|2
+9789580000098|Programacion orientada a objetos|Camilo Duarte|TEC|2022|4|4
+9789580000104|Quimica general|Sandra Leon|CIE|2016|4|4
+9789580000111|Biologia celular|Mario Pena|CIE|2014|3|3
+9789580000128|Historia universal|Teresa Gil|HIS|2009|4|4
+9789580000135|Estadistica para ingenieros|Pablo Mejia|MAT|2020|5|5
+9789580000142|Ingenieria de software|Carolina Prieto|TEC|2021|4|4
+9789580000159|Redes de computadores|Andres Cano|TEC|2017|3|3
+9789580000166|Cuentos de la costa|Rafael Mena|LIT|1998|3|3
+9789580000173|Poesia colombiana|Alicia Duque|LIT|2003|2|2
+9789580000180|Diseno grafico basico|Lucia Romero|ART|2013|3|3
