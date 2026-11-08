@@ -1,0 +1,6 @@
+LIT|Literatura|Novela, cuento y poesia
+TEC|Tecnologia|Programacion, bases de datos e ingenieria de software
+CIE|Ciencias|Fisica, quimica y biologia
+HIS|Historia|Historia universal y de Colombia
+MAT|Matematicas|Calculo, algebra y estadistica
+ART|Arte|Historia del arte y diseno
